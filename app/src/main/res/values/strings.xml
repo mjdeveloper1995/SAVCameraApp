@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">sav camera</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="fullname">Full Name</string>
+    <string name="phone">Phone No</string>
+    <string name="welcome_to_smart_ai_vision">WELCOME TO SMART AI VISION CAMERA</string>
+    <string name="user_login">User Login</string>
+    <string name="login">Login</string>
+    <string name="timerVal">00:00</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="signup">CREATE NEW ACCOUNT</string>
+    <string name="email">Email Id</string>
+</resources>
