@@ -10,7 +10,8 @@
         android:roundIcon="@mipmap/ic_ailogo"
         android:supportsRtl="true"
         android:name=".application.MyApplication"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme"
+        android:requestLegacyExternalStorage="true">
         <activity android:name=".Activitys.TestCameraActivity">
 
         </activity>
